@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Angular",
+    "Description": "Angular Description"
+  },
+  {
+    "Name": "NetCore",
+    "Description": "NetCore Description"
+  },
+  {
+    "Name": "VS Code",
+    "Description": "VS Code Description"
+  },
+  {
+    "Name": "React",
+    "Description": "React Description"
+  },
+  {
+    "Name": "Typescript",
+    "Description": "Typescript Description"
+  },
+  {
+    "Name": "Redis",
+    "Description": "Redis Description"
+  }
+]
